@@ -1,23 +1,8 @@
-*.o
-*.so
-
 *~
 
 *#*
 
 .#*
 
-GPATH
-GRTAGS
-GTAGS
-
-oprofile_data/
-gmon.out
-
-core.jojo.*
-vgcore.*
-
-__pycache__/
-.cache/
 /target
 **/*.rs.bk
